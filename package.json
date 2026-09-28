@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/gaugescope",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gauge color scope values and contrast-safe presentation helpers.",
+  "bin": {
+    "gaugescope": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/gaugescope.git"
+  },
+  "homepage": "https://theworker02.github.io/gaugescope/",
+  "keywords": [
+    "gauge",
+    "scope",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
